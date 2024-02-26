@@ -1,0 +1,14 @@
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\bin\Debug\netcoreapp3.1\TodoApp.exe
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\bin\Debug\netcoreapp3.1\TodoApp.deps.json
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\bin\Debug\netcoreapp3.1\TodoApp.runtimeconfig.json
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\bin\Debug\netcoreapp3.1\TodoApp.runtimeconfig.dev.json
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\bin\Debug\netcoreapp3.1\TodoApp.dll
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\bin\Debug\netcoreapp3.1\TodoApp.pdb
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\obj\Debug\netcoreapp3.1\TodoApp.csproj.AssemblyReference.cache
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\obj\Debug\netcoreapp3.1\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\obj\Debug\netcoreapp3.1\TodoApp.AssemblyInfoInputs.cache
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\obj\Debug\netcoreapp3.1\TodoApp.AssemblyInfo.cs
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\obj\Debug\netcoreapp3.1\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\obj\Debug\netcoreapp3.1\TodoApp.dll
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\obj\Debug\netcoreapp3.1\TodoApp.pdb
+C:\Users\Manthan\source\repos\TodoApp\TodoApp\obj\Debug\netcoreapp3.1\TodoApp.genruntimeconfig.cache
